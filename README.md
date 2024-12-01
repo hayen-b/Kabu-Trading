@@ -1,6 +1,6 @@
 # KABU Trading
 
-KABU Trading is a university project developed in Kotlin using Android Studio. It is an Android application that facilitates trading activities in a simulated environment. The app includes features such as discovering stocks, managing a portfolio, and viewing user profiles. 
+KABU Trading is a project developed in Kotlin using Android Studio. It is an Android application that facilitates trading activities in a simulated environment. The app includes features such as discovering stocks, managing a portfolio, and viewing user profiles. 
 
 ## Features
 
